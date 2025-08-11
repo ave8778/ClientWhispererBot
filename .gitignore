@@ -1,0 +1,6 @@
+﻿.env
+venv/
+__pycache__/
+logs/
+data/leads.csv
+data/sessions/

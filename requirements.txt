@@ -1,0 +1,8 @@
+aiogram==3.12.0          # Современный Telegram-фреймворк (async, FSM, middlewares)
+python-dotenv==1.0.1     # Загрузка конфигурации из .env
+uvloop==0.20.0; sys_platform != "win32"  # Ускоренный event loop (не для Windows)
+loguru==0.7.2            # Красивое и удобное логирование
+openai>=1.40,<2
+httpx>=0.24,<0.28
+aiogram>=3.4,<4
+loguru>=0.7
